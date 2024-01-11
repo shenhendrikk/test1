@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 //hendrik
+//ini fitur register
 void main() {
   runApp(const MyApp());
 }
